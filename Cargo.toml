@@ -1,0 +1,11 @@
+[package]
+name = "zerik"
+version = "0.1.0"
+edition = "2021"
+
+[features]
+use-debug-plugin = []
+
+[dependencies]
+bevy = { version = "0.14.2", default-features = true }
+avian2d = { version = "0.1.2", default-features = true }
