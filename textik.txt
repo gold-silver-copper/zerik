@@ -1,0 +1,36 @@
+
+
+top down 2d game
+
+futuristic shooter, or just ancient guy running around with a bow
+
+
+side scroll 2d game
+would utilize physics a lot, also shooter
+
+
+completely text based game
+shooting is not so fun in txt, so not much beyond rudimentary. but lots of other gmae interactions
+may become easier due to auto pathing and more instant dialogues
+
+
+first person game
+
+beautiful doom style retro 2.5d art
+
+s
+third person game
+
+i dont really like this genres
+
+top down strategy games
+mixed with city builder, dwarf fortress colony, rimworld, grand strategy victoria 2,
+
+commonality: same map, same stats, all of them use interslavic
+
+xy f64 position
+
+
+all different renders for same underlying game. bad because would really require
+just a heightgraph terrain,
+ but each render can have its own tradeoff?s
